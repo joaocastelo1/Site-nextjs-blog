@@ -10,10 +10,7 @@
   - Javascript
   - CSS module
 
-## 🔗 Link do Projeto 
-
-  Next Blog: https://nextjs-blog-9s4j.vercel.app/
 
 ## 👦 Autor 
 
-  Tiago Mota
+  Joao Castelo 
